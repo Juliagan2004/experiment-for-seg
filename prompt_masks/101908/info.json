@@ -1,0 +1,22 @@
+{
+    "left_panel":
+    {
+        "type": "revolute",
+        "left_upper":[70, 520],
+        "right_lower":[270, 580]
+    }
+    ,
+    "middle_panel":
+    {
+        "type":"revolute",
+        "left_upper":[260, 500],
+        "right_lower":[530, 590]
+    },
+    "right_panel":
+    {
+        "type":"revolute",
+        "left_upper":[540, 410],
+        "right_lower":[690, 580]
+    }
+
+}

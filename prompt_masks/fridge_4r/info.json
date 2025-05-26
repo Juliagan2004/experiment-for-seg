@@ -1,0 +1,28 @@
+{
+    "upper_left_door":
+        {
+            "type":"revolute",
+            "left_upper": [380, 60],
+            "right_lower": [480, 450]
+        },
+    "upper_right_door":
+    {
+        "type":"revolute",
+        "left_upper": [550, 60],
+        "right_lower": [680, 420]
+    },
+    "upper_drawer":
+    {
+        "type":"slides",
+        "left_upper": [400, 420],
+        "right_lower": [600, 530]
+    },
+
+    "lower_drawer":
+    {
+        "type":"slides",
+        "left_upper": [420, 520],
+        "right_lower": [620, 700]
+    }
+    
+}
